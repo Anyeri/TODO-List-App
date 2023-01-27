@@ -1,1 +1,2 @@
-TODO List App 배포하기 전
+TODO List App 미완성
+https://creative-praline-ca4b4d.netlify.app
