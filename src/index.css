@@ -70,7 +70,6 @@ button {
 ::-webkit-scrollbar {
   width: 0.5rem;
 }
-
 ::-webkit-scrollbar-track {
   background-color: var(--color-bg-dark);
 }

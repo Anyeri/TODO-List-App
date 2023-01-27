@@ -6,9 +6,9 @@ import styles from "./TodoList.module.css";
 export default function TodoList({ filter }) {
   const [todos, setTodos] = useState([
     { id: "123", text: "공부하기", status: "completed" },
-    { id: "1234", text: "빨래하기", status: "completed" },
-    { id: "12345", text: "강아지산책", status: "active" },
-    { id: "12346", text: "TIL작성", status: "active" },
+    { id: "124", text: "빨래하기", status: "completed" },
+    { id: "125", text: "강아지산책", status: "active" },
+    { id: "126", text: "TIL작성", status: "active" },
   ]);
 
   const handleAdd = (todo) => setTodos([...todos, todo]);
