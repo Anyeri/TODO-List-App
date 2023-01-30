@@ -20,8 +20,8 @@
 
 .icon {
   display: flex;
-  width: 26px;
-  height: 26px;
+  width: 25.5px;
+  height: 25.5px;
   background-color: var(--color-grey);
   border-radius: 100%;
   transition: all 150ms ease-out;
